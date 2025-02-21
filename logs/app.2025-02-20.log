@@ -1,0 +1,439 @@
+2025-02-20 13:53:18 - Starting JobportalApplication using Java 23.0.1 with PID 29592 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 13:53:18 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 13:53:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 13:53:19 - Finished Spring Data repository scanning in 53 ms. Found 2 JPA repository interfaces.
+2025-02-20 13:53:20 - Tomcat initialized with port 8080 (http)
+2025-02-20 13:53:20 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 13:53:20 - Starting service [Tomcat]
+2025-02-20 13:53:20 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 13:53:20 - Initializing Spring embedded WebApplicationContext
+2025-02-20 13:53:20 - Root WebApplicationContext: initialization completed in 1896 ms
+2025-02-20 13:53:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 13:53:21 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 13:53:21 - HHH000026: Second-level cache disabled
+2025-02-20 13:53:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 13:53:21 - HikariPool-1 - Starting...
+2025-02-20 13:53:21 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 13:53:22 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@79d49790
+2025-02-20 13:53:22 - HikariPool-1 - Start completed.
+2025-02-20 13:53:23 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 13:53:24 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 13:53:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 13:53:29 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 13:53:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 13:53:30 - Global AuthenticationManager configured with AuthenticationProvider bean with name authProvider
+2025-02-20 13:53:30 - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2025-02-20 13:53:30 - One of the patterns in [register] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-02-20 13:53:31 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-20 13:53:31 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-20 13:53:31 - Started JobportalApplication in 13.523 seconds (process running for 14.318)
+2025-02-20 13:55:50 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 13:55:50 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 13:55:50 - Completed initialization in 1 ms
+2025-02-20 14:07:43 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 14:07:43 - Graceful shutdown complete
+2025-02-20 14:07:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 14:07:43 - HikariPool-1 - Shutdown initiated...
+2025-02-20 14:07:43 - HikariPool-1 - Shutdown completed.
+2025-02-20 14:30:46 - Starting JobportalApplication using Java 23.0.1 with PID 17464 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 14:30:46 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 14:30:47 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 14:30:47 - Finished Spring Data repository scanning in 83 ms. Found 2 JPA repository interfaces.
+2025-02-20 14:30:48 - Tomcat initialized with port 8080 (http)
+2025-02-20 14:30:48 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 14:30:48 - Starting service [Tomcat]
+2025-02-20 14:30:48 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 14:30:48 - Initializing Spring embedded WebApplicationContext
+2025-02-20 14:30:48 - Root WebApplicationContext: initialization completed in 2213 ms
+2025-02-20 14:30:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 14:30:49 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 14:30:49 - HHH000026: Second-level cache disabled
+2025-02-20 14:30:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 14:30:49 - HikariPool-1 - Starting...
+2025-02-20 14:30:49 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 14:30:50 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@69b37f5c
+2025-02-20 14:30:50 - HikariPool-1 - Start completed.
+2025-02-20 14:30:50 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 14:30:51 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 14:30:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 14:30:54 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 14:30:55 - Global AuthenticationManager configured with AuthenticationProvider bean with name authProvider
+2025-02-20 14:30:55 - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2025-02-20 14:30:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 14:30:55 - One of the patterns in [register, login] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-02-20 14:30:56 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-20 14:30:56 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-20 14:30:56 - Started JobportalApplication in 11.092 seconds (process running for 11.681)
+2025-02-20 14:32:36 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 14:32:36 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 14:32:36 - Completed initialization in 2 ms
+2025-02-20 15:17:08 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m47s681ms443µs700ns).
+2025-02-20 16:53:25 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m17s20ms932µs700ns).
+2025-02-20 17:56:47 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m30s228ms173µs300ns).
+2025-02-20 19:06:27 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 19:06:27 - Graceful shutdown complete
+2025-02-20 19:06:27 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:06:27 - HikariPool-1 - Shutdown initiated...
+2025-02-20 19:06:27 - HikariPool-1 - Shutdown completed.
+2025-02-20 19:11:53 - Starting JobportalApplication using Java 23.0.1 with PID 19916 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:11:53 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:11:54 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:11:54 - Finished Spring Data repository scanning in 48 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:11:55 - Tomcat initialized with port 8080 (http)
+2025-02-20 19:11:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:11:55 - Starting service [Tomcat]
+2025-02-20 19:11:55 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 19:11:55 - Initializing Spring embedded WebApplicationContext
+2025-02-20 19:11:55 - Root WebApplicationContext: initialization completed in 1674 ms
+2025-02-20 19:11:55 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 19:11:55 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 19:11:55 - HHH000026: Second-level cache disabled
+2025-02-20 19:11:56 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 19:11:56 - HikariPool-1 - Starting...
+2025-02-20 19:11:56 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 19:11:56 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5be7b749
+2025-02-20 19:11:56 - HikariPool-1 - Start completed.
+2025-02-20 19:11:56 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 19:11:57 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 19:11:58 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:11:58 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 19:11:59 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'authenticationManager': No qualifying bean of type 'org.springframework.security.authentication.AuthenticationManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-02-20 19:11:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:11:59 - HikariPool-1 - Shutdown initiated...
+2025-02-20 19:11:59 - HikariPool-1 - Shutdown completed.
+2025-02-20 19:11:59 - Stopping service [Tomcat]
+2025-02-20 19:11:59 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-20 19:11:59 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field authenticationManager in com.example.Jobportal.securityconfigs.Controller.UserController required a bean of type 'org.springframework.security.authentication.AuthenticationManager' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.authentication.AuthenticationManager' in your configuration.
+
+2025-02-20 19:12:28 - Starting JobportalApplication using Java 23.0.1 with PID 23916 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:12:28 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:12:28 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:12:28 - Finished Spring Data repository scanning in 43 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:12:29 - Tomcat initialized with port 8080 (http)
+2025-02-20 19:12:29 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:12:29 - Starting service [Tomcat]
+2025-02-20 19:12:29 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 19:12:29 - Initializing Spring embedded WebApplicationContext
+2025-02-20 19:12:29 - Root WebApplicationContext: initialization completed in 1500 ms
+2025-02-20 19:12:29 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 19:12:30 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 19:12:30 - HHH000026: Second-level cache disabled
+2025-02-20 19:12:30 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 19:12:30 - HikariPool-1 - Starting...
+2025-02-20 19:12:30 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 19:12:30 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@652b3733
+2025-02-20 19:12:30 - HikariPool-1 - Start completed.
+2025-02-20 19:12:30 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 19:12:31 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 19:12:31 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:12:32 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 19:12:32 - Global AuthenticationManager configured with UserDetailsService bean with name myUserDetailsService
+2025-02-20 19:12:32 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 19:12:33 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration': Unsatisfied dependency expressed through method 'setFilterChains' parameter 0: Error creating bean with name 'securityFilterChain' defined in class path resource [com/example/Jobportal/securityconfigs/config/SecurityConfig.class]: Failed to instantiate [org.springframework.security.web.SecurityFilterChain]: Factory method 'securityFilterChain' threw exception with message: No qualifying bean of type 'org.springframework.security.oauth2.client.registration.ClientRegistrationRepository' available
+2025-02-20 19:12:33 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:12:33 - HikariPool-1 - Shutdown initiated...
+2025-02-20 19:12:33 - HikariPool-1 - Shutdown completed.
+2025-02-20 19:12:33 - Stopping service [Tomcat]
+2025-02-20 19:12:33 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-20 19:12:33 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of method setFilterChains in org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration required a bean of type 'org.springframework.security.oauth2.client.registration.ClientRegistrationRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.oauth2.client.registration.ClientRegistrationRepository' in your configuration.
+
+2025-02-20 19:18:52 - Starting JobportalApplication using Java 23.0.1 with PID 27624 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:18:52 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:18:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:18:53 - Finished Spring Data repository scanning in 47 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:18:53 - Tomcat initialized with port 8080 (http)
+2025-02-20 19:18:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:18:53 - Starting service [Tomcat]
+2025-02-20 19:18:53 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 19:18:53 - Initializing Spring embedded WebApplicationContext
+2025-02-20 19:18:53 - Root WebApplicationContext: initialization completed in 1317 ms
+2025-02-20 19:18:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 19:18:54 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 19:18:54 - HHH000026: Second-level cache disabled
+2025-02-20 19:18:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 19:18:54 - HikariPool-1 - Starting...
+2025-02-20 19:18:54 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 19:18:54 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@54daf8f9
+2025-02-20 19:18:54 - HikariPool-1 - Start completed.
+2025-02-20 19:18:54 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 19:18:55 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 19:18:55 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:18:56 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 19:18:56 - Global AuthenticationManager configured with UserDetailsService bean with name myUserDetailsService
+2025-02-20 19:18:56 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 19:18:57 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:18:57 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-20 19:18:57 - Started JobportalApplication in 5.581 seconds (process running for 6.056)
+2025-02-20 19:19:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 19:19:28 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 19:19:28 - Completed initialization in 1 ms
+2025-02-20 19:20:51 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xf20x010x000x060xee0x030x03k@0xcb0x9e#0x930xe70xc60x02/<0x150xb8d0xc80x120x180xab0xd40xcc\F0x05r0xf00x890xf90xf60x7f0xf80xcbU ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:20:51 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xd20x010x000x060xce0x030x030xdcRG0x01j`10xd70xe3$L0xe2N0xd90x8c0xa0?0xca0x1e0xff0x090x9c0x830xf30xf00xedx0x0b0xb30x90cp ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:22:05 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 19:22:05 - Graceful shutdown complete
+2025-02-20 19:22:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:22:05 - HikariPool-1 - Shutdown initiated...
+2025-02-20 19:22:05 - HikariPool-1 - Shutdown completed.
+2025-02-20 19:22:07 - Starting JobportalApplication using Java 23.0.1 with PID 30764 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:22:07 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:22:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:22:08 - Finished Spring Data repository scanning in 48 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:22:08 - Tomcat initialized with port 8080 (http)
+2025-02-20 19:22:08 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:22:08 - Starting service [Tomcat]
+2025-02-20 19:22:08 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 19:22:08 - Initializing Spring embedded WebApplicationContext
+2025-02-20 19:22:08 - Root WebApplicationContext: initialization completed in 1299 ms
+2025-02-20 19:22:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 19:22:09 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 19:22:09 - HHH000026: Second-level cache disabled
+2025-02-20 19:22:09 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 19:22:09 - HikariPool-1 - Starting...
+2025-02-20 19:22:09 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 19:22:09 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@5aa7cfdf
+2025-02-20 19:22:09 - HikariPool-1 - Start completed.
+2025-02-20 19:22:09 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 19:22:10 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 19:22:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:22:11 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 19:22:11 - Global AuthenticationManager configured with UserDetailsService bean with name myUserDetailsService
+2025-02-20 19:22:11 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 19:22:12 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:22:12 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-20 19:22:12 - Started JobportalApplication in 5.688 seconds (process running for 6.223)
+2025-02-20 19:22:12 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xd20x010x000x060xce0x030x030xc6d0xdb0x8fb0xe10x020xef0x020x18-E0xe60x050x1b$0xf2_<0x05v^r]^g0xb3U0xce0x0c0xd30x94 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:22:12 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x070x120x010x000x070x0e0x030x03[l0x890xf30xd90x8b0x820x860x1710x060xebE0xde0x870x8d0x1c0x990x8e0xdfh%0x150x000x0100xb6y0xe08_0x8b ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:23:48 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 19:23:48 - Graceful shutdown complete
+2025-02-20 19:23:48 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:23:48 - HikariPool-1 - Shutdown initiated...
+2025-02-20 19:23:48 - HikariPool-1 - Shutdown completed.
+2025-02-20 19:23:50 - Starting JobportalApplication using Java 23.0.1 with PID 24392 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:23:50 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:23:51 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:23:51 - Finished Spring Data repository scanning in 41 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:23:51 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2025-02-20 19:23:51 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-20 19:23:52 - Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:165)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.Jobportal.JobportalApplication.main(JobportalApplication.java:16)
+Caused by: java.lang.IllegalStateException: Unable to create key store: Could not load store from 'classpath:keystore.jks'
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.createKeyStore(JksSslStoreBundle.java:112)
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.lambda$new$0(JksSslStoreBundle.java:75)
+	at org.springframework.util.function.SingletonSupplier.get(SingletonSupplier.java:106)
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.getKeyStore(JksSslStoreBundle.java:81)
+	at org.springframework.boot.web.server.WebServerSslBundle.createKeyStore(WebServerSslBundle.java:157)
+	at org.springframework.boot.web.server.WebServerSslBundle.createStoreBundle(WebServerSslBundle.java:147)
+	at org.springframework.boot.web.server.WebServerSslBundle.get(WebServerSslBundle.java:142)
+	at org.springframework.boot.web.server.AbstractConfigurableWebServerFactory.getSslBundle(AbstractConfigurableWebServerFactory.java:198)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.customizeSsl(TomcatServletWebServerFactory.java:383)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.customizeConnector(TomcatServletWebServerFactory.java:359)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:212)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	... 8 common frames omitted
+Caused by: java.lang.IllegalStateException: Could not load store from 'classpath:keystore.jks'
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.loadKeyStore(JksSslStoreBundle.java:140)
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.createKeyStore(JksSslStoreBundle.java:107)
+	... 20 common frames omitted
+Caused by: java.io.FileNotFoundException: class path resource [keystore.jks] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:215)
+	at org.springframework.boot.ssl.jks.JksSslStoreBundle.loadKeyStore(JksSslStoreBundle.java:135)
+	... 21 common frames omitted
+2025-02-20 19:24:02 - Starting JobportalApplication using Java 23.0.1 with PID 26548 (C:\Users\vaddireddys\Downloads\Jobportal\Jobportal\target\classes started by vaddireddys in C:\Users\vaddireddys\Downloads\Jobportal)
+2025-02-20 19:24:02 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 19:24:03 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-20 19:24:03 - Finished Spring Data repository scanning in 47 ms. Found 2 JPA repository interfaces.
+2025-02-20 19:24:03 - Tomcat initialized with port 8080 (http)
+2025-02-20 19:24:03 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:24:03 - Starting service [Tomcat]
+2025-02-20 19:24:03 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 19:24:03 - Initializing Spring embedded WebApplicationContext
+2025-02-20 19:24:03 - Root WebApplicationContext: initialization completed in 1468 ms
+2025-02-20 19:24:04 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-20 19:24:04 - HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-02-20 19:24:04 - HHH000026: Second-level cache disabled
+2025-02-20 19:24:04 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-20 19:24:04 - HikariPool-1 - Starting...
+2025-02-20 19:24:04 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2025-02-20 19:24:05 - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@52856ff9
+2025-02-20 19:24:05 - HikariPool-1 - Start completed.
+2025-02-20 19:24:05 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 21.3
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-02-20 19:24:06 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-20 19:24:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-20 19:24:06 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-02-20 19:24:06 - Global AuthenticationManager configured with UserDetailsService bean with name myUserDetailsService
+2025-02-20 19:24:07 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-20 19:24:07 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-20 19:24:07 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-20 19:24:07 - Started JobportalApplication in 5.901 seconds (process running for 6.48)
+2025-02-20 19:24:15 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xf20x010x000x060xee0x030x030~0x940x100x94VqC0x89qy0xf90x9c8K0xd10xae0xca0xb4f0x96V0xc50xf70xa60xca!Z0xa30xd50x950x98 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:24:15 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x070x120x010x000x070x0e0x030x03m0xd20xf3Aq0x17.0xb5(cas0x1f0xd70xae0xeb0xb5{PPD0xe3%0xc70xbeBx0xe40xcaDJ0xb5 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-20 19:24:35 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 19:24:35 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 19:24:35 - Completed initialization in 1 ms
+2025-02-20 20:40:55 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h12m49s771ms83µs600ns).
