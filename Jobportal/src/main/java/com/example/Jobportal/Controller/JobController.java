@@ -15,6 +15,7 @@ public class JobController {
     @Autowired
     JobService service;
 
+
     @PostMapping("job")
     public void addJob(@RequestBody Job job){
         service.addJob(job);
